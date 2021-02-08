@@ -1,3 +1,3 @@
-# day_2_project_2
+# Product_class
 
 "Product" class with some instances
